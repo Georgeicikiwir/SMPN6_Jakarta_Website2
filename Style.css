@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.gambar-sekolah {
+    width: 100%;
+    max-width: 800px; /* Biar nggak kegedean */
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px; /* Biar ada efek rounded */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Bayangan biar estetik */
+}
+
+header {
+    background: #007bff;
+    color: white;
+    padding: 20px;
+}
+
+button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #218838;
+}
